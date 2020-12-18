@@ -1,12 +1,16 @@
-# GraphQL learn from => (https://www.howtographql.com/) youtube link : https://www.youtube.com/watch?v=ZQL7tL2S0oQ
+# GraphQL
 
-## start server
+source => (https://www.howtographql.com/) youtube link : https://www.youtube.com/watch?v=ZQL7tL2S0oQ
+
+## Running server
 
 ```
 npm start
 ```
 
-## After server is running write on browser write following : localhost:5000/graphql
+After server is running write on browser write following :
+
+### localhost:5000/graphql
 
 ### for displaying all book data
 
